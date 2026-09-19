@@ -1,6 +1,6 @@
 # Hi, I'm Natol Tesfaye 👋
 
-### Software Engineering Student | Full-Stack Developer
+### Software Engineering Student | Full-Stack Developer| Java & Web Development
 
 I'm a Software Engineering undergraduate interested in building practical, reliable, and user-friendly software.
 
